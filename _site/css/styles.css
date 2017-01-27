@@ -1,0 +1,49 @@
+.row
+{
+	display: inline-block;
+	background-color: rgba(255,255,255,0.80);
+	padding: 5%;
+	margin: 0 auto;
+	height:100vh;
+}
+
+.content
+{
+	display: block;
+}
+
+body
+{
+	text-align:center;
+	width: 100%;
+	background-image: url("../img/TrevorDrinkTweet.png");
+	background-repeat: repeat;
+	font-family: 'Roboto', sans-serif;
+}
+
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: #6f6e6e;
+}
+
+img
+{
+	max-width: 50%;
+	margin-top: 20px;
+}
+
+.parody{
+	background-color: white;
+	float:left;
+	font-size: 0.9em;
+}
+.break{
+	margin-top: 3000px;
+}
